@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="justify">
 <h3 align="left"><samp>「</samp></h3>
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=87CEEB&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+ my+name+is+Aman!" align="middle" alt="Hello, I am Aman Shaikh. Welcome to my profile.">
