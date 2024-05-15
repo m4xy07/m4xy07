@@ -13,14 +13,14 @@
 <!-- For analytics ^ -->
 <a href="https://github.com/m4xy07"><img src="https://komarev.com/ghpvc/?username=m4xy07&style=for-the-badge&abbreviated=true"></a>
 <a href="https:/m4xy.org"><img src="https://img.shields.io/badge/About%20Me-87CEEB?style=for-the-badge&logo=About.me&logoColor=black"></a>
-<a href="malito:hey@m4xy.org"><img src="https://img.shields.io/badge/Mail-87CEEB?style=for-the-badge&logo=gmail&logoColor=black"></a>
+<a href="mailto:hey@m4xy.org"><img src="https://img.shields.io/badge/Mail-87CEEB?style=for-the-badge&logo=gmail&logoColor=black"></a>
 <a href="https://www.linkedin.com/in/aman-shaikh33/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 <hr>
 <table>
     <tr>
-      <td><a href="#--------"><img height="215px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m4xy07&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=tokyonight"/></a></td>
-      <td><a href="#--------"><img height="215px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4xy07&layout=compact&line_height=21&hide_border=true&theme=tokyonight"/></a></td>
+      <td><a href="[#--------](https://github.com/m4xy07)"><img height="215px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m4xy07&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=tokyonight"/></a></td>
+      <td><a href="[#--------](https://github.com/m4xy07)"><img height="215px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4xy07&layout=compact&line_height=21&hide_border=true&theme=tokyonight"/></a></td>
     </tr>
   </table>
 <hr>
