@@ -32,7 +32,7 @@
 
 <h3><samp>Technologies</samp></h3>
 
-<a>![Languages](https://skillicons.dev/icons?i=nodejs,react,expressjs,mongodb,mysql,django&theme=dark)</a>
+<a>![Languages](https://skillicons.dev/icons?i=nodejs,react,expressjs,mongodb,mysql,django,flask&theme=dark)</a>
 
 </p>
 <hr>
