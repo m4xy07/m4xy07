@@ -19,7 +19,7 @@
 <hr>
 <table>
     <tr>
-      <td><a href="[#--------](https://github.com/m4xy07)"><img height="215px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m4xy07&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=tokyonight"/></a></td>
+      <td><a href="[#--------](https://github.com/m4xy07)"><img height="215px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m4xy07&count_private=true&show_icons=true&include_all_commits=true&line_height=22&hide_border=true&theme=tokyonight"/></a></td>
       <td><a href="[#--------](https://github.com/m4xy07)"><img height="215px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4xy07&layout=compact&line_height=21&hide_border=true&theme=tokyonight"/></a></td>
     </tr>
   </table>
