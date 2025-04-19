@@ -1,13 +1,14 @@
 <div align="justify">
 <h3 align="left"><samp>「</samp></h3>
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=87CEEB&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+ my+name+is+Aman" align="middle" alt="Hello, I am Aman Shaikh. Welcome to my profile">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3200&pause=2000&color=87CEEB&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+ my+name+is+Aman" align="middle" alt="Hello, I am Aman Shaikh. Welcome to my profile">
+  
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=87CEEB&center=true&vCenter=true&width=1940&height=50&lines=Enthusiastic+coder+driven+by+a+passion+for+crafting+elegant+solutions+to+complex+problems." align="middle" alt="Hello, I am Aman Shaikh. Welcome to my profile.">
 <h3 align="right"><samp>」</samp></h3>
   <br>
   <hr>
   <br>
   <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=m4xy07&theme=tokyonight&hide_border=true&border_radius=4.5&card_width=1001" alt="GitHub Streaks for m4xy07"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=m4xy07&theme=tokyonight&hide_border=true&border_radius=4.5&card_width=1000" alt="GitHub Streaks for m4xy07"/></a>
     
 ![Hit](https://hit.yhype.me/github/profile?user_id=39182106)
 <!-- For analytics ^ -->
