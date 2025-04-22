@@ -1,6 +1,6 @@
 <div align="justify">
 <h3 align="left"><samp>「</samp></h3>
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=87CEEB&center=true&vCenter=true&width=1940&height=50&lines=Hello%2C+I'm+Aman+Shaikh" alt="Aman Shaikh text" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3500&pause=2000&color=87CEEB&center=true&vCenter=true&width=1940&height=50&lines=Hello%2C+I'm+Aman+Shaikh" alt="Aman Shaikh text" /></a>
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=87CEEB&center=true&vCenter=true&width=1940&height=50&lines=Enthusiastic+coder+driven+by+a+passion+for+crafting+elegant+solutions+to+complex+problems." align="middle" alt="Hello, I am Aman Shaikh. Welcome to my profile.">
 <h3 align="right"><samp>」</samp></h3>
   <br>
