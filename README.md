@@ -13,7 +13,7 @@
 <!-- For analytics ^ -->
 <a href="https://github.com/m4xy07"><img src="https://komarev.com/ghpvc/?username=m4xy07&style=for-the-badge"></a>
 <a href="https://amanshaikh.dev"><img src="https://img.shields.io/badge/About%20Me-87CEEB?style=for-the-badge&logo=About.me&logoColor=black"></a>
-<a href="mailto:hey@m4xy.org"><img src="https://img.shields.io/badge/Mail-87CEEB?style=for-the-badge&logo=gmail&logoColor=black"></a>
+<a href="mailto:hey@amanshaikh.dev"><img src="https://img.shields.io/badge/Mail-87CEEB?style=for-the-badge&logo=gmail&logoColor=black"></a>
 <a href="https://www.linkedin.com/in/aman-shaikh33/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 <hr>
