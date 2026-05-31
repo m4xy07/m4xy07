@@ -35,7 +35,7 @@
 
 Final-year $`\textcolor{#a78bfa}{\textsf{CS Engineering}}`$ student at PCET's Pimpri Chinchwad University, building software<br/>
 where $`\textcolor{#a78bfa}{\textsf{AI}}`$, $`\textcolor{#a78bfa}{\textsf{IoT}}`$, and scalable full-stack systems meet the real world.<br/>
-I like shipping things that move a metric — yields up $`\textcolor{#87ceeb}{\textsf{30\%}}`$, invoice errors down $`\textcolor{#87ceeb}{\textsf{60\%}}`$, retention up $`\textcolor{#87ceeb}{\textsf{125\%}}`$.<br/>
+I like shipping things that move a metric - yields up $`\textcolor{#87ceeb}{\textsf{30\%}}`$, invoice errors down $`\textcolor{#87ceeb}{\textsf{60\%}}`$, retention up $`\textcolor{#87ceeb}{\textsf{125\%}}`$.<br/>
 When I'm not coding, I'm probably winning a hackathon (that's happened $`\textcolor{#a78bfa}{\textsf{8 times}}`$ 🏆).
 
 </div>
@@ -96,14 +96,14 @@ When I'm not coding, I'm probably winning a hackathon (that's happened $`\textco
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=m4xy07&bg_color=0d0221&color=87ceeb&line=a78bfa&point=e0e7ff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Orbit"/>
 </p>
 
-<!-- RANK TROPHIES — via trophy.benkou.dev (maintainer-listed mirror; reliable, no per-viewer rate limit) -->
+<!-- RANK TROPHIES - via trophy.benkou.dev (maintainer-listed mirror; reliable, no per-viewer rate limit) -->
 <p align="center">
   <a href="https://github.com/m4xy07">
     <img alt="Trophies" src="https://trophy.benkou.dev/?username=m4xy07&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=6&margin-h=6&title=MultiLanguage,Repositories,Commits,Stars,Experience"/>
   </a>
 </p>
 
-<!-- SNAKE (generated daily by GitHub Action — see .github/workflows/snake.yml) -->
+<!-- SNAKE (generated daily by GitHub Action - see .github/workflows/snake.yml) -->
 <h3 align="center">⟡ &nbsp; <samp>Watch the snake eat my commits</samp> &nbsp; ⟡</h3>
 <p align="center">
   <picture>
@@ -172,7 +172,7 @@ Credit-based recycling rewards system with RFID/fingerprint login, smart waste d
 <p align="center"><img src="assets/divider.svg" width="100%" alt="─────"/></p>
 
 <!-- ════════════════════  TROPHY CASE  ════════════════════ -->
-<h3 align="center">⟡ &nbsp; <samp>Trophy Case — 8× Hackathon Winner</samp> &nbsp; ⟡</h3>
+<h3 align="center">⟡ &nbsp; <samp>Trophy Case - 8× Hackathon Winner</samp> &nbsp; ⟡</h3>
 
 <p align="center">
   <img src="./assets/trophycase.svg" width="92%" alt="Trophy case: 8 hackathon wins including 1st at PCU Ideathon 2.0 and Project Expo 2025"/>
@@ -180,11 +180,11 @@ Credit-based recycling rewards system with RFID/fingerprint login, smart waste d
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="─────"/></p>
 
-<!-- ════════════════════  SUMMARY CARDS  ════════════════════ -->
+<!-- ════════════════════  SUMMARY CARDS  ════════════════════
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4xy07&theme=tokyonight" alt="profile summary"/>
 </p>
-
+ -->
 
 <!-- ════════════════════  FOOTER  ════════════════════ -->
 <p align="center">
