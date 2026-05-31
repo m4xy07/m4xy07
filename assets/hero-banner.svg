@@ -31,6 +31,11 @@
       <stop offset="50%" stop-color="#a78bfa" stop-opacity="0.9"/>
       <stop offset="100%" stop-color="#87CEEB" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="tail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#bae6fd" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#cbd5ff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.95"/>
+    </linearGradient>
     <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="22"/>
     </filter>
@@ -58,6 +63,8 @@
       .sub { animation: fade 1.6s ease-out .5s both; }
       .sweep { animation: sweep 5.5s ease-in-out infinite; }
       @keyframes sweep { 0% { transform: translateX(-120px); opacity:0 } 35% { opacity:.9 } 70% { opacity:0 } 100% { transform: translateX(120px); opacity:0 } }
+      .meteor { animation-name: fly; animation-timing-function: linear; animation-iteration-count: infinite; }
+      @keyframes fly { 0% { transform: translate(0,0); opacity:0 } 8% { opacity:1 } 55% { opacity:1 } 100% { transform: translate(520px,420px); opacity:0 } }
     </style>
   </defs>
 
@@ -151,6 +158,45 @@
   <g class="spark" transform="translate(940,235)" style="animation-delay:0.7s">
     <path d="M0,-6 L1.1,-1.1 L6,0 L1.1,1.1 L0,6 L-1.1,1.1 L-6,0 L-1.1,-1.1 Z" fill="#cbb8ff"/>
   </g>
+
+  <!-- shooting stars / meteor shower (behind orb + wordmark) -->
+  <g transform="translate(140,-50)">
+    <g class="meteor" style="animation-delay:0.0s;animation-duration:4.6s">
+      <g transform="rotate(39) scale(1.0)">
+        <rect x="-90" y="-0.9" width="90" height="1.8" rx="0.9" fill="url(#tail)"/>
+        <circle cx="0" cy="0" r="2.2" fill="#ffffff"/>
+        <circle cx="0" cy="0" r="5" fill="#bae6fd" opacity="0.5" filter="url(#soft2)"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(430,-70)">
+    <g class="meteor" style="animation-delay:1.6s;animation-duration:5.0s">
+      <g transform="rotate(39) scale(0.8)">
+        <rect x="-90" y="-0.9" width="90" height="1.8" rx="0.9" fill="url(#tail)"/>
+        <circle cx="0" cy="0" r="2.2" fill="#ffffff"/>
+        <circle cx="0" cy="0" r="5" fill="#bae6fd" opacity="0.5" filter="url(#soft2)"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(790,-40)">
+    <g class="meteor" style="animation-delay:2.8s;animation-duration:4.4s">
+      <g transform="rotate(39) scale(1.1)">
+        <rect x="-90" y="-0.9" width="90" height="1.8" rx="0.9" fill="url(#tail)"/>
+        <circle cx="0" cy="0" r="2.2" fill="#ffffff"/>
+        <circle cx="0" cy="0" r="5" fill="#bae6fd" opacity="0.5" filter="url(#soft2)"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(1000,-80)">
+    <g class="meteor" style="animation-delay:3.5s;animation-duration:5.4s">
+      <g transform="rotate(39) scale(0.7)">
+        <rect x="-90" y="-0.9" width="90" height="1.8" rx="0.9" fill="url(#tail)"/>
+        <circle cx="0" cy="0" r="2.2" fill="#ffffff"/>
+        <circle cx="0" cy="0" r="5" fill="#bae6fd" opacity="0.5" filter="url(#soft2)"/>
+      </g>
+    </g>
+  </g>
+
 
   <!-- orbital rings + core orb -->
   <g class="ring" opacity="0.5">
