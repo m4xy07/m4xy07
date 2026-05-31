@@ -180,11 +180,11 @@ Credit-based recycling rewards system with RFID/fingerprint login, smart waste d
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="─────"/></p>
 
-<!-- ════════════════════  SUMMARY CARDS  ════════════════════ -->
+<!-- ════════════════════  SUMMARY CARDS  ════════════════════
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4xy07&theme=tokyonight" alt="profile summary"/>
 </p>
-
+ -->
 
 <!-- ════════════════════  FOOTER  ════════════════════ -->
 <p align="center">
