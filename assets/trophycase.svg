@@ -1,0 +1,39 @@
+<svg viewBox="0 0 900 342" width="900" height="342" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hackathon trophy case">
+  <rect width="900" height="342" fill="#0d1117"/>
+  
+  <rect x="1" y="1" width="898" height="340" rx="13" fill="#0d0221" stroke="#2d2150" stroke-width="1.2"/>
+  <g transform="translate(22,25.0)"><circle cx="8" cy="8" r="8" fill="#FFD54A" stroke="#E0A92E" stroke-width="1.2"/><text x="8" y="11.6" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="9.5" font-weight="700" fill="#5a3d00">1</text></g>
+  <text x="52" y="38" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="13" font-weight="700" fill="#e6edf3">1st Place — ₹50K</text>
+  <text x="240" y="38" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="12" fill="#a78bfa">PCU Ideathon 2.0 (2025)</text>
+  <text x="500" y="38" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="11" fill="#6e7681">CropSense — improving crop yields</text>
+  <line x1="22" y1="56" x2="878" y2="56" stroke="#1a1230" stroke-width="1"/>
+  <g transform="translate(22,71.0)"><circle cx="8" cy="8" r="8" fill="#FFD54A" stroke="#E0A92E" stroke-width="1.2"/><text x="8" y="11.6" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="9.5" font-weight="700" fill="#5a3d00">1</text></g>
+  <text x="52" y="84" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="13" font-weight="700" fill="#e6edf3">1st Place — ₹5K</text>
+  <text x="240" y="84" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="12" fill="#a78bfa">PCU Project Expo 2025</text>
+  <text x="500" y="84" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="11" fill="#6e7681">CropSense — precision agriculture</text>
+  <line x1="22" y1="102" x2="878" y2="102" stroke="#1a1230" stroke-width="1"/>
+  <g transform="translate(22,117.0)"><circle cx="8" cy="8" r="8" fill="#C0C5CE" stroke="#9aa0ad" stroke-width="1.2"/><text x="8" y="11.6" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="9.5" font-weight="700" fill="#5a3d00">2</text></g>
+  <text x="52" y="130" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="13" font-weight="700" fill="#e6edf3">2nd Place — ₹30K</text>
+  <text x="240" y="130" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="12" fill="#a78bfa">PCU Ideathon 3.0 (2026)</text>
+  <text x="500" y="130" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="11" fill="#6e7681">RaySense — spot-agriculture rover</text>
+  <line x1="22" y1="148" x2="878" y2="148" stroke="#1a1230" stroke-width="1"/>
+  <g transform="translate(22,163.0)"><circle cx="8" cy="8" r="8" fill="#C0C5CE" stroke="#9aa0ad" stroke-width="1.2"/><text x="8" y="11.6" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="9.5" font-weight="700" fill="#5a3d00">2</text></g>
+  <text x="52" y="176" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="13" font-weight="700" fill="#e6edf3">2nd Place — ₹5K</text>
+  <text x="240" y="176" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="12" fill="#a78bfa">Nowrosjee Wadia TechNovation</text>
+  <text x="500" y="176" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="11" fill="#6e7681">CropSense (National)</text>
+  <line x1="22" y1="194" x2="878" y2="194" stroke="#1a1230" stroke-width="1"/>
+  <g transform="translate(22,209.0)"><circle cx="8" cy="8" r="8" fill="#C0C5CE" stroke="#9aa0ad" stroke-width="1.2"/><text x="8" y="11.6" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="9.5" font-weight="700" fill="#5a3d00">2</text></g>
+  <text x="52" y="222" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="13" font-weight="700" fill="#e6edf3">2nd Place — ₹3K</text>
+  <text x="240" y="222" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="12" fill="#a78bfa">JSPM RSCOE Prakalp 2K26</text>
+  <text x="500" y="222" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="11" fill="#6e7681">CropSense (National)</text>
+  <line x1="22" y1="240" x2="878" y2="240" stroke="#1a1230" stroke-width="1"/>
+  <g transform="translate(22,255.0)"><circle cx="8" cy="8" r="8" fill="#C0C5CE" stroke="#9aa0ad" stroke-width="1.2"/><text x="8" y="11.6" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="9.5" font-weight="700" fill="#5a3d00">2</text></g>
+  <text x="52" y="268" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="13" font-weight="700" fill="#e6edf3">2nd Place — ₹3K</text>
+  <text x="240" y="268" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="12" fill="#a78bfa">Agro TechFest + Expo 2K24</text>
+  <text x="500" y="268" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="11" fill="#6e7681">Crop Monitoring System</text>
+  <line x1="22" y1="286" x2="878" y2="286" stroke="#1a1230" stroke-width="1"/>
+  <g transform="translate(22,301.0)"><circle cx="8" cy="8" r="8" fill="#C0C5CE" stroke="#9aa0ad" stroke-width="1.2"/><text x="8" y="11.6" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="9.5" font-weight="700" fill="#5a3d00">2</text></g>
+  <text x="52" y="314" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="13" font-weight="700" fill="#e6edf3">2nd Place</text>
+  <text x="240" y="314" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="12" fill="#a78bfa">PCU Ideathon 2K24</text>
+  <text x="500" y="314" font-family="'JetBrains Mono','SFMono-Regular','Consolas','Courier New',monospace" font-size="11" fill="#6e7681">EcoCred — waste management</text>
+</svg>

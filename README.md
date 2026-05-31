@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://amanshaikh.dev"><img src="https://img.shields.io/badge/Portfolio-0d0221?style=for-the-badge&logo=firefoxbrowser&logoColor=A78BFA&labelColor=0d0221"></a>
   <a href="mailto:hey@amanshaikh.dev"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=87CEEB&labelColor=0d0221"></a>
-  <a href="https://www.linkedin.com/in/aman-shaikh33/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0221"></a>
+  <a href="https://www.linkedin.com/in/aman-shaikh33/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=87CEEB&labelColor=0d0221"></a>
   <a href="https://github.com/m4xy07"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=c4b5fd&labelColor=0d0221"></a>
   <img src="https://komarev.com/ghpvc/?username=m4xy07&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS&labelColor=0d0221">
 </p>
@@ -31,14 +31,14 @@
 <!-- ════════════════════  WHOAMI  ════════════════════ -->
 <h3 align="center">⟡ &nbsp; <samp>whoami</samp> &nbsp; ⟡</h3>
 
-<p align="center">
-  <samp>
-  Final-year <b>CS Engineering</b> student at PCET's Pimpri Chinchwad University, building software<br/>
-  where <b>AI</b>, <b>IoT</b>, and scalable full-stack systems meet the real world.<br/>
-  I like shipping things that move a metric — yields up <b>30%</b>, invoice errors down <b>60%</b>, retention up <b>125%</b>.<br/>
-  When I'm not coding, I'm probably winning a hackathon (that's happened <b>8 times</b> 🏆).
-  </samp>
-</p>
+<div align="center">
+
+Final-year $\textcolor{#a78bfa}{\textsf{CS Engineering}}$ student at PCET's Pimpri Chinchwad University, building software<br/>
+where $\textcolor{#a78bfa}{\textsf{AI}}$, $\textcolor{#a78bfa}{\textsf{IoT}}$, and scalable full-stack systems meet the real world.<br/>
+I like shipping things that move a metric — yields up $\textcolor{#87ceeb}{\textsf{30\%}}$, invoice errors down $\textcolor{#87ceeb}{\textsf{60\%}}$, retention up $\textcolor{#87ceeb}{\textsf{125\%}}$.<br/>
+When I'm not coding, I'm probably winning a hackathon (that's happened $\textcolor{#a78bfa}{\textsf{8 times}}$ 🏆).
+
+</div>
 
 <p align="center">
   <code>🌍 Pune, India</code> &nbsp; <code>🎓 B.Tech CSE '27</code> &nbsp; <code>🤖 AI · IoT · Full-Stack</code> &nbsp; <code>⚡ Junior Dev @ Envotech</code>
@@ -96,14 +96,12 @@
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=m4xy07&bg_color=0d0221&color=87ceeb&line=a78bfa&point=e0e7ff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Orbit"/>
 </p>
 
-<!-- TROPHIES -->
-<!-- TROPHIES: fetched daily by .github/workflows/stats.yml and committed to /profile -->
-<!-- so viewers load it from this repo instead of the rate-limited public endpoint. -->
-<!-- <p align="center">
+<!-- RANK TROPHIES — via trophy.benkou.dev (maintainer-listed mirror; reliable, no per-viewer rate limit) -->
+<p align="center">
   <a href="https://github.com/m4xy07">
-    <img alt="Trophies" src="./profile/trophies.svg"/>
+    <img alt="Trophies" src="https://trophy.benkou.dev/?username=m4xy07&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=6&margin-h=6&title=MultiLanguage,Repositories,Commits,Stars,Experience"/>
   </a>
-</p> -->
+</p>
 
 <!-- SNAKE (generated daily by GitHub Action — see .github/workflows/snake.yml) -->
 <h3 align="center">⟡ &nbsp; <samp>Watch the snake eat my commits</samp> &nbsp; ⟡</h3>
@@ -174,17 +172,11 @@ Credit-based recycling rewards system with RFID/fingerprint login, smart waste d
 <p align="center"><img src="assets/divider.svg" width="100%" alt="─────"/></p>
 
 <!-- ════════════════════  TROPHY CASE  ════════════════════ -->
-<h3 align="center">⟡ &nbsp; <samp>Trophy Case - 8× Hackathon Winner</samp> &nbsp; ⟡</h3>
+<h3 align="center">⟡ &nbsp; <samp>Trophy Case — 8× Hackathon Winner</samp> &nbsp; ⟡</h3>
 
-<table align="center">
-<tr><td>🥇</td><td><b>1st Place - ₹50K</b></td><td>PCU Ideathon 2.0 (2025)</td><td><sub>CropSense - improving crop yields</sub></td></tr>
-<tr><td>🥇</td><td><b>1st Place - ₹5K</b></td><td>PCU Project Expo 2025</td><td><sub>CropSense - precision agriculture</sub></td></tr>
-<tr><td>🥈</td><td><b>2nd Place - ₹30K</b></td><td>PCU Ideathon 3.0 (2026)</td><td><sub>RaySense - precision spot-agriculture rover</sub></td></tr>
-<tr><td>🥈</td><td><b>2nd Place - ₹5K</b></td><td>Nowrosjee Wadia TechNovation</td><td><sub>CropSense (National)</sub></td></tr>
-<tr><td>🥈</td><td><b>2nd Place - ₹3K</b></td><td>JSPM RSCOE Prakalp 2K26</td><td><sub>CropSense (National)</sub></td></tr>
-<tr><td>🥈</td><td><b>2nd Place - ₹3K</b></td><td>Agro TechFest + Expo 2K24</td><td><sub>Crop Monitoring System</sub></td></tr>
-<tr><td>🥈</td><td><b>2nd Place</b></td><td>PCU Ideathon 2K24</td><td><sub>EcoCred - waste management</sub></td></tr>
-</table>
+<p align="center">
+  <img src="./assets/trophycase.svg" width="92%" alt="Trophy case: 8 hackathon wins including 1st at PCU Ideathon 2.0 and Project Expo 2025"/>
+</p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="─────"/></p>
 
@@ -204,7 +196,7 @@ Credit-based recycling rewards system with RFID/fingerprint login, smart waste d
 <p align="center">
   <a href="https://amanshaikh.dev"><img src="https://img.shields.io/badge/amanshaikh.dev-0d0221?style=for-the-badge&logo=firefoxbrowser&logoColor=A78BFA&labelColor=0d0221"></a>
   <a href="mailto:hey@amanshaikh.dev"><img src="https://img.shields.io/badge/hey@amanshaikh.dev-0d0221?style=for-the-badge&logo=gmail&logoColor=87CEEB&labelColor=0d0221"></a>
-  <a href="https://www.linkedin.com/in/aman-shaikh33/"><img src="https://img.shields.io/badge/aman--shaikh33-0d0221?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d0221"></a>
+  <a href="https://www.linkedin.com/in/aman-shaikh33/"><img src="https://img.shields.io/badge/aman--shaikh33-0d0221?style=for-the-badge&logo=linkedin&logoColor=87CEEB&labelColor=0d0221"></a>
 </p>
 
 <p align="center"><sub><samp>「 thanks for orbiting by ✦ 」</samp></sub></p>
