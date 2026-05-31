@@ -187,8 +187,6 @@ Credit-based recycling rewards system with RFID/fingerprint login, smart waste d
 </p>
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m4xy07&theme=tokyonight"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m4xy07&theme=tokyonight"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m4xy07&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 <!-- ════════════════════  FOOTER  ════════════════════ -->
