@@ -7,7 +7,7 @@
   <hr>
   <br>
   <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=m4xy07&theme=tokyonight&hide_border=true&border_radius=4.5&card_width=1000" alt="GitHub Streaks for m4xy07"/></a>
+<a href="https://amanshaikh.dev"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=m4xy07&theme=tokyonight&hide_border=true&border_radius=4.5&card_width=1000" alt="GitHub Streaks for m4xy07"/></a>
     
 ![Hit](https://hit.yhype.me/github/profile?user_id=39182106)
 <!-- For analytics ^ -->
@@ -36,3 +36,5 @@
 
 </p>
 <hr>
+  <div align="center">
+<a href="https://amanshaikh.dev"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4xy07&theme=tokyonight" alt="GitHub Summary for m4xy07"/></a>
