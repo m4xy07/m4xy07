@@ -1,0 +1,86 @@
+<svg viewBox="0 0 1200 240" width="1200" height="240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Let's connect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#070118"/>
+      <stop offset="100%" stop-color="#0d0221"/>
+    </linearGradient>
+    <radialGradient id="dome" cx="50%" cy="100%" r="75%">
+      <stop offset="0%" stop-color="#c4b5fd" stop-opacity="0.95"/>
+      <stop offset="22%" stop-color="#8b5cf6" stop-opacity="0.8"/>
+      <stop offset="55%" stop-color="#6d28d9" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d8c8ff"/>
+      <stop offset="55%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#87CEEB"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+    <style>
+      .st { animation: tw infinite ease-in-out; }
+      @keyframes tw { 0%,100%{opacity:var(--b)} 50%{opacity:1} }
+      .dome { animation: br 6s ease-in-out infinite; transform-origin: 600px 240px; }
+      @keyframes br { 0%,100%{opacity:.9;transform:scaleY(1)} 50%{opacity:1;transform:scaleY(1.06)} }
+      .cta { animation: f 1.4s ease-out both; }
+      @keyframes f { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+    </style>
+  </defs>
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <g>
+    <circle class="st" cx="926" cy="143" r="1.44" fill="#c4b5fd" style="animation-duration:4.84s;animation-delay:2.26s;--b:0.44"/>
+    <circle class="st" cx="378" cy="131" r="1.02" fill="#c4b5fd" style="animation-duration:4.34s;animation-delay:0.93s;--b:0.29"/>
+    <circle class="st" cx="185" cy="137" r="1.39" fill="#e0e7ff" style="animation-duration:4.58s;animation-delay:0.21s;--b:0.49"/>
+    <circle class="st" cx="322" cy="3" r="1.41" fill="#ffffff" style="animation-duration:2.69s;animation-delay:0.18s;--b:0.45"/>
+    <circle class="st" cx="950" cy="83" r="0.98" fill="#e0e7ff" style="animation-duration:5.03s;animation-delay:2.6s;--b:0.36"/>
+    <circle class="st" cx="9" cy="21" r="1.0" fill="#ffffff" style="animation-duration:3.33s;animation-delay:4.99s;--b:0.5"/>
+    <circle class="st" cx="520" cy="80" r="1.33" fill="#ffffff" style="animation-duration:4.04s;animation-delay:0.15s;--b:0.33"/>
+    <circle class="st" cx="820" cy="27" r="1.43" fill="#ffffff" style="animation-duration:3.66s;animation-delay:4.79s;--b:0.44"/>
+    <circle class="st" cx="437" cy="53" r="1.52" fill="#e0e7ff" style="animation-duration:2.66s;animation-delay:1.88s;--b:0.39"/>
+    <circle class="st" cx="149" cy="144" r="1.19" fill="#bae6fd" style="animation-duration:4.84s;animation-delay:1.35s;--b:0.15"/>
+    <circle class="st" cx="31" cy="104" r="1.33" fill="#ffffff" style="animation-duration:2.85s;animation-delay:1.23s;--b:0.16"/>
+    <circle class="st" cx="952" cy="124" r="0.7" fill="#c4b5fd" style="animation-duration:4.18s;animation-delay:2.24s;--b:0.19"/>
+    <circle class="st" cx="858" cy="98" r="0.63" fill="#bae6fd" style="animation-duration:3.76s;animation-delay:1.06s;--b:0.22"/>
+    <circle class="st" cx="40" cy="53" r="0.71" fill="#ffffff" style="animation-duration:5.49s;animation-delay:3.01s;--b:0.34"/>
+    <circle class="st" cx="299" cy="54" r="0.99" fill="#e0e7ff" style="animation-duration:2.53s;animation-delay:3.05s;--b:0.44"/>
+    <circle class="st" cx="150" cy="19" r="0.6" fill="#bae6fd" style="animation-duration:4.25s;animation-delay:1.22s;--b:0.35"/>
+    <circle class="st" cx="928" cy="32" r="1.56" fill="#c4b5fd" style="animation-duration:3.95s;animation-delay:2.87s;--b:0.45"/>
+    <circle class="st" cx="315" cy="79" r="1.5" fill="#c4b5fd" style="animation-duration:4.95s;animation-delay:1.25s;--b:0.19"/>
+    <circle class="st" cx="795" cy="123" r="1.16" fill="#bae6fd" style="animation-duration:3.76s;animation-delay:0.52s;--b:0.13"/>
+    <circle class="st" cx="488" cy="100" r="0.78" fill="#c4b5fd" style="animation-duration:4.97s;animation-delay:2.98s;--b:0.23"/>
+    <circle class="st" cx="140" cy="32" r="0.75" fill="#bae6fd" style="animation-duration:4.18s;animation-delay:4.26s;--b:0.35"/>
+    <circle class="st" cx="434" cy="52" r="1.32" fill="#ffffff" style="animation-duration:2.71s;animation-delay:2.06s;--b:0.21"/>
+    <circle class="st" cx="360" cy="72" r="0.91" fill="#e0e7ff" style="animation-duration:4.22s;animation-delay:0.66s;--b:0.26"/>
+    <circle class="st" cx="677" cy="133" r="1.14" fill="#bae6fd" style="animation-duration:2.92s;animation-delay:0.18s;--b:0.13"/>
+    <circle class="st" cx="638" cy="8" r="0.52" fill="#bae6fd" style="animation-duration:4.41s;animation-delay:2.41s;--b:0.4"/>
+    <circle class="st" cx="279" cy="18" r="0.58" fill="#c4b5fd" style="animation-duration:4.14s;animation-delay:3.69s;--b:0.46"/>
+    <circle class="st" cx="699" cy="90" r="0.59" fill="#ffffff" style="animation-duration:3.92s;animation-delay:0.39s;--b:0.45"/>
+    <circle class="st" cx="1023" cy="146" r="0.52" fill="#ffffff" style="animation-duration:4.49s;animation-delay:1.9s;--b:0.12"/>
+    <circle class="st" cx="164" cy="23" r="1.2" fill="#e0e7ff" style="animation-duration:5.48s;animation-delay:4.4s;--b:0.4"/>
+    <circle class="st" cx="1189" cy="117" r="0.98" fill="#ffffff" style="animation-duration:5.02s;animation-delay:0.42s;--b:0.41"/>
+    <circle class="st" cx="635" cy="22" r="1.03" fill="#e0e7ff" style="animation-duration:3.19s;animation-delay:3.49s;--b:0.31"/>
+    <circle class="st" cx="523" cy="2" r="0.9" fill="#bae6fd" style="animation-duration:2.93s;animation-delay:3.06s;--b:0.32"/>
+    <circle class="st" cx="905" cy="127" r="1.48" fill="#e0e7ff" style="animation-duration:3.48s;animation-delay:3.33s;--b:0.2"/>
+    <circle class="st" cx="410" cy="54" r="0.92" fill="#e0e7ff" style="animation-duration:4.25s;animation-delay:1.58s;--b:0.17"/>
+    <circle class="st" cx="718" cy="10" r="1.28" fill="#e0e7ff" style="animation-duration:5.35s;animation-delay:1.38s;--b:0.18"/>
+    <circle class="st" cx="965" cy="70" r="1.52" fill="#bae6fd" style="animation-duration:4.99s;animation-delay:1.91s;--b:0.32"/>
+    <circle class="st" cx="926" cy="82" r="0.58" fill="#bae6fd" style="animation-duration:2.59s;animation-delay:4.36s;--b:0.14"/>
+    <circle class="st" cx="1168" cy="90" r="0.84" fill="#e0e7ff" style="animation-duration:4.87s;animation-delay:0.1s;--b:0.17"/>
+    <circle class="st" cx="388" cy="6" r="1.35" fill="#ffffff" style="animation-duration:3.3s;animation-delay:3.9s;--b:0.42"/>
+    <circle class="st" cx="914" cy="27" r="1.19" fill="#c4b5fd" style="animation-duration:4.47s;animation-delay:4.04s;--b:0.48"/>
+    <circle class="st" cx="408" cy="121" r="0.78" fill="#ffffff" style="animation-duration:4.64s;animation-delay:3.78s;--b:0.32"/>
+    <circle class="st" cx="366" cy="57" r="0.8" fill="#c4b5fd" style="animation-duration:3.54s;animation-delay:3.49s;--b:0.32"/>
+    <circle class="st" cx="805" cy="57" r="0.6" fill="#e0e7ff" style="animation-duration:5.3s;animation-delay:3.61s;--b:0.17"/>
+    <circle class="st" cx="403" cy="1" r="0.91" fill="#bae6fd" style="animation-duration:4.21s;animation-delay:4.4s;--b:0.42"/>
+    <circle class="st" cx="949" cy="83" r="1.22" fill="#ffffff" style="animation-duration:3.11s;animation-delay:3.61s;--b:0.43"/>
+  </g>
+  <ellipse class="dome" cx="600" cy="250" rx="470" ry="180" fill="url(#dome)"/>
+  <line x1="120" y1="240" x2="1080" y2="240" stroke="#a78bfa" stroke-opacity="0.5" stroke-width="1"/>
+  <g class="cta">
+    <text x="600" y="92" text-anchor="middle"
+      font-family="'SF Mono','JetBrains Mono','Consolas',monospace" font-size="34" font-weight="700"
+      letter-spacing="6" fill="url(#ink)" filter="url(#soft)">LET&#8217;S BUILD SOMETHING</text>
+    <text x="600" y="132" text-anchor="middle"
+      font-family="'SF Mono','JetBrains Mono','Consolas',monospace" font-size="14"
+      letter-spacing="3" fill="#c4b5fd" opacity="0.9">have a problem worth solving? &#160; reach out &#160;&#8595;</text>
+  </g>
+</svg>

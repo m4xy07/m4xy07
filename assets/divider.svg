@@ -1,0 +1,24 @@
+<svg viewBox="0 0 1000 40" width="1000" height="40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="dl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a78bfa" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#87CEEB" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dd" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e0e7ff"/>
+      <stop offset="40%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5"/></filter>
+    <style>
+      .trav { animation: mv 4.5s ease-in-out infinite; }
+      @keyframes mv { 0%{transform:translateX(120px);opacity:0} 12%{opacity:1} 50%{transform:translateX(880px);opacity:1} 62%{opacity:0} 100%{transform:translateX(120px);opacity:0} }
+      .di { animation: pul 4.5s ease-in-out infinite; transform-origin:center; }
+      @keyframes pul { 0%,100%{opacity:.5} 50%{opacity:1} }
+    </style>
+  </defs>
+  <rect x="120" y="19.2" width="760" height="1.6" fill="url(#dl)"/>
+  <g class="di"><circle cx="500" cy="20" r="3" fill="#bae6fd" filter="url(#g)"/></g>
+  <circle class="trav" cx="0" cy="20" r="9" fill="url(#dd)" filter="url(#g)"/>
+</svg>
