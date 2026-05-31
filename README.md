@@ -51,20 +51,20 @@
 
 <p align="center"><sub><b>LANGUAGES</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,bash&theme=dark&perline=7" alt="languages"/>
+  <img height="48" src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,bash&theme=dark&perline=7" alt="languages"/>
 </p>
 
 <p align="center"><sub><b>FRAMEWORKS · WEB · CLOUD</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,mongodb,mysql,aws,git&theme=dark&perline=10" alt="frameworks"/>
+  <img height="48" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,mongodb,mysql,aws,git&theme=dark&perline=10" alt="frameworks"/>
 </p>
 
 <p align="center"><sub><b>AI / ML · IoT · HARDWARE</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,raspberrypi,arduino&theme=dark&perline=5" alt="ai-iot"/>
-  &nbsp;<img src="https://img.shields.io/badge/YOLO-0d0221?style=flat-square&logo=yolo&logoColor=87CEEB&labelColor=0d0221&color=1a0a3a"/>
-  <img src="https://img.shields.io/badge/Socket.IO-0d0221?style=flat-square&logo=socketdotio&logoColor=87CEEB&labelColor=0d0221&color=1a0a3a"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-0d0221?style=flat-square&logo=digitalocean&logoColor=87CEEB&labelColor=0d0221&color=1a0a3a"/>
+  <img height="48" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,raspberrypi,arduino&theme=dark" alt="ai-iot"/>
+  <img height="48" src="./assets/skill-yolo.svg" alt="YOLO"/>
+  <img height="48" src="./assets/skill-socketio.svg" alt="Socket.IO"/>
+  <img height="48" src="./assets/skill-digitalocean.svg" alt="DigitalOcean"/>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="─────"/></p>
@@ -94,9 +94,11 @@
 </p>
 
 <!-- TROPHIES -->
+<!-- TROPHIES: fetched daily by .github/workflows/stats.yml and committed to /profile -->
+<!-- so viewers load it from this repo instead of the rate-limited public endpoint. -->
 <p align="center">
   <a href="https://github.com/m4xy07">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=m4xy07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4&title_color=a78bfa&text_color=87ceeb"/>
+    <img alt="Trophies" src="./profile/trophies.svg"/>
   </a>
 </p>
 

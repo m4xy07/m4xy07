@@ -1,4 +1,4 @@
-name: Update README Stat Cards 📊
+name: Update README Cards 📊
 
 on:
   schedule:
@@ -33,10 +33,29 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Fetch trophy card (served locally to dodge viewer rate limits)
+        continue-on-error: true   # a bad fetch keeps the previous good file; never fails the run
+        run: |
+          mkdir -p profile
+          params="username=${{ github.repository_owner }}&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4"
+          for host in \
+            "github-profile-trophy.vercel.app" \
+            "github-profile-trophy-fork-two.vercel.app" \
+            "github-profile-trophy-winning.vercel.app"; do
+            if curl -sSL --fail --max-time 30 "https://$host/?$params" -o profile/trophies.tmp.svg \
+               && head -c 5 profile/trophies.tmp.svg | grep -q "<svg"; then
+              mv profile/trophies.tmp.svg profile/trophies.svg
+              echo "✔ trophy fetched from $host"
+              break
+            fi
+            echo "✘ $host failed, trying next mirror…"
+          done
+          rm -f profile/trophies.tmp.svg
+
       - name: Commit & push refreshed cards
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "chore: refresh README stat cards [skip ci]" || echo "no changes to commit"
+          git commit -m "chore: refresh README cards [skip ci]" || echo "no changes to commit"
           git push
