@@ -72,22 +72,25 @@
 <!-- ════════════════════  GITHUB STATS  ════════════════════ -->
 <h3 align="center">⟡ &nbsp; <samp>GitHub Constellation</samp> &nbsp; ⟡</h3>
 
-<!-- Stat cards are rendered to static SVGs by .github/workflows/stats.yml -->
-<!-- (committed to /profile) so they never hit external rate limits. -->
-<p align="center">
-  <a href="https://github.com/m4xy07">
-    <img height="170" align="center" alt="GitHub Stats" src="./profile/stats.svg"/>
-  </a>
-  <a href="https://github.com/m4xy07">
-    <img height="170" align="center" alt="Top Languages" src="./profile/top-langs.svg"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/m4xy07">
-    <img alt="Streak" src="https://streak-stats.demolab.com?user=m4xy07&hide_border=true&background=0d0221&stroke=a78bfa&ring=87ceeb&fire=8b5cf6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=87ceeb&sideLabels=c4b5fd&dates=6b7280&border_radius=8"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/m4xy07">
+        <img height="135" alt="GitHub Stats" src="./profile/stats.svg"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/m4xy07">
+        <img height="135" alt="Top Languages" src="./profile/top-langs.svg"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/m4xy07">
+        <img height="135" alt="Streak" src="https://streak-stats.demolab.com?user=m4xy07&hide_border=true&background=0d0221&stroke=a78bfa&ring=87ceeb&fire=8b5cf6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=87ceeb&sideLabels=c4b5fd&dates=6b7280&border_radius=8"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=m4xy07&bg_color=0d0221&color=87ceeb&line=a78bfa&point=e0e7ff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Orbit"/>
