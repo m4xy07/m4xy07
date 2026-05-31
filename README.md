@@ -72,12 +72,14 @@
 <!-- ════════════════════  GITHUB STATS  ════════════════════ -->
 <h3 align="center">⟡ &nbsp; <samp>GitHub Constellation</samp> &nbsp; ⟡</h3>
 
+<!-- Stat cards are rendered to static SVGs by .github/workflows/stats.yml -->
+<!-- (committed to /profile) so they never hit external rate limits. -->
 <p align="center">
   <a href="https://github.com/m4xy07">
-    <img height="170" align="center" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=m4xy07&count_private=true&show_icons=true&include_all_commits=true&line_height=22&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=87ceeb&text_color=c9d1d9&ring_color=8b5cf6"/>
+    <img height="170" align="center" alt="GitHub Stats" src="./profile/stats.svg"/>
   </a>
   <a href="https://github.com/m4xy07">
-    <img height="170" align="center" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=m4xy07&layout=compact&langs_count=8&line_height=22&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c9d1d9"/>
+    <img height="170" align="center" alt="Top Languages" src="./profile/top-langs.svg"/>
   </a>
 </p>
 
@@ -184,6 +186,11 @@ Credit-based recycling rewards system with RFID/fingerprint login, smart waste d
 <!-- ════════════════════  SUMMARY CARDS  ════════════════════ -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4xy07&theme=tokyonight" alt="profile summary"/>
+</p>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m4xy07&theme=tokyonight"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m4xy07&theme=tokyonight"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m4xy07&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 <!-- ════════════════════  FOOTER  ════════════════════ -->
