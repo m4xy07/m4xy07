@@ -33,10 +33,10 @@
 
 <div align="center">
 
-Final-year $\textcolor{#a78bfa}{\textsf{CS Engineering}}$ student at PCET's Pimpri Chinchwad University, building software<br/>
-where $\textcolor{#a78bfa}{\textsf{AI}}$, $\textcolor{#a78bfa}{\textsf{IoT}}$, and scalable full-stack systems meet the real world.<br/>
-I like shipping things that move a metric — yields up $\textcolor{#87ceeb}{\textsf{30\%}}$, invoice errors down $\textcolor{#87ceeb}{\textsf{60\%}}$, retention up $\textcolor{#87ceeb}{\textsf{125\%}}$.<br/>
-When I'm not coding, I'm probably winning a hackathon (that's happened $\textcolor{#a78bfa}{\textsf{8 times}}$ 🏆).
+Final-year $`\textcolor{#a78bfa}{\textsf{CS Engineering}}`$ student at PCET's Pimpri Chinchwad University, building software<br/>
+where $`\textcolor{#a78bfa}{\textsf{AI}}`$, $`\textcolor{#a78bfa}{\textsf{IoT}}`$, and scalable full-stack systems meet the real world.<br/>
+I like shipping things that move a metric — yields up $`\textcolor{#87ceeb}{\textsf{30\%}}`$, invoice errors down $`\textcolor{#87ceeb}{\textsf{60\%}}`$, retention up $`\textcolor{#87ceeb}{\textsf{125\%}}`$.<br/>
+When I'm not coding, I'm probably winning a hackathon (that's happened $`\textcolor{#a78bfa}{\textsf{8 times}}`$ 🏆).
 
 </div>
 
