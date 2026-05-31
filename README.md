@@ -3,7 +3,7 @@
 <!-- HERO BANNER (custom animated SVG) -->
 <p align="center"> 
   <a href="https://amanshaikh.dev">
-    <img src="assets/hero-banner.svg" width="100%" alt="Aman Shaikh — Software Engineer · AI · IoT · Full-Stack"/>
+    <img src="assets/hero-banner.svg" width="100%" alt="Aman Shaikh - Software Engineer · AI · IoT · Full-Stack"/>
   </a>
 </p>
 
@@ -174,16 +174,16 @@ Credit-based recycling rewards system with RFID/fingerprint login, smart waste d
 <p align="center"><img src="assets/divider.svg" width="100%" alt="─────"/></p>
 
 <!-- ════════════════════  TROPHY CASE  ════════════════════ -->
-<h3 align="center">⟡ &nbsp; <samp>Trophy Case — 8× Hackathon Winner</samp> &nbsp; ⟡</h3>
+<h3 align="center">⟡ &nbsp; <samp>Trophy Case - 8× Hackathon Winner</samp> &nbsp; ⟡</h3>
 
 <table align="center">
-<tr><td>🥇</td><td><b>1st Place — ₹50K</b></td><td>PCU Ideathon 2.0 (2025)</td><td><sub>CropSense — improving crop yields</sub></td></tr>
-<tr><td>🥇</td><td><b>1st Place — ₹5K</b></td><td>PCU Project Expo 2025</td><td><sub>CropSense — precision agriculture</sub></td></tr>
-<tr><td>🥈</td><td><b>2nd Place — ₹30K</b></td><td>PCU Ideathon 3.0 (2026)</td><td><sub>RaySense — precision spot-agriculture rover</sub></td></tr>
-<tr><td>🥈</td><td><b>2nd Place — ₹5K</b></td><td>Nowrosjee Wadia TechNovation</td><td><sub>CropSense (National)</sub></td></tr>
-<tr><td>🥈</td><td><b>2nd Place — ₹3K</b></td><td>JSPM RSCOE Prakalp 2K26</td><td><sub>CropSense (National)</sub></td></tr>
-<tr><td>🥈</td><td><b>2nd Place — ₹3K</b></td><td>Agro TechFest + Expo 2K24</td><td><sub>Crop Monitoring System</sub></td></tr>
-<tr><td>🥈</td><td><b>2nd Place</b></td><td>PCU Ideathon 2K24</td><td><sub>EcoCred — waste management</sub></td></tr>
+<tr><td>🥇</td><td><b>1st Place - ₹50K</b></td><td>PCU Ideathon 2.0 (2025)</td><td><sub>CropSense - improving crop yields</sub></td></tr>
+<tr><td>🥇</td><td><b>1st Place - ₹5K</b></td><td>PCU Project Expo 2025</td><td><sub>CropSense - precision agriculture</sub></td></tr>
+<tr><td>🥈</td><td><b>2nd Place - ₹30K</b></td><td>PCU Ideathon 3.0 (2026)</td><td><sub>RaySense - precision spot-agriculture rover</sub></td></tr>
+<tr><td>🥈</td><td><b>2nd Place - ₹5K</b></td><td>Nowrosjee Wadia TechNovation</td><td><sub>CropSense (National)</sub></td></tr>
+<tr><td>🥈</td><td><b>2nd Place - ₹3K</b></td><td>JSPM RSCOE Prakalp 2K26</td><td><sub>CropSense (National)</sub></td></tr>
+<tr><td>🥈</td><td><b>2nd Place - ₹3K</b></td><td>Agro TechFest + Expo 2K24</td><td><sub>Crop Monitoring System</sub></td></tr>
+<tr><td>🥈</td><td><b>2nd Place</b></td><td>PCU Ideathon 2K24</td><td><sub>EcoCred - waste management</sub></td></tr>
 </table>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="─────"/></p>
