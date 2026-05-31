@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://amanshaikh.dev"><img src="https://img.shields.io/badge/Portfolio-0d0221?style=for-the-badge&logo=firefoxbrowser&logoColor=A78BFA&labelColor=0d0221"></a>
   <a href="mailto:hey@amanshaikh.dev"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=87CEEB&labelColor=0d0221"></a>
-  <a href="https://www.linkedin.com/in/aman-shaikh33/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=87CEEB&labelColor=0d0221"></a>
+  <a href="https://www.linkedin.com/in/aman-shaikh33/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjODdDRUVCIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6TTUzLjc5IDEwOC4xQzI0LjA5IDEwOC4xIDAgODMuNSAwIDUzLjhhNTMuNzkgNTMuNzkgMCAwIDEgMTA3LjU4IDBjMCAyOS43LTI0LjEgNTQuMy01My43OSA1NC4zek00NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjItNDguMjkgMC01NS42OSAzNy43LTU1LjY5IDc2LjdWNDQ4aC05Mi43OFYxNDguOWg4OS4wOHY0MC44aDEuM2MxMi40LTIzLjUgNDIuNjktNDguMyA4Ny44OC00OC4zIDk0IDAgMTExLjI4IDYxLjkgMTExLjI4IDE0Mi4zVjQ0OHoiLz48L3N2Zz4%3D&labelColor=0d0221"></a>
   <a href="https://github.com/m4xy07"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=c4b5fd&labelColor=0d0221"></a>
   <img src="https://komarev.com/ghpvc/?username=m4xy07&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS&labelColor=0d0221">
 </p>
@@ -196,7 +196,7 @@ Credit-based recycling rewards system with RFID/fingerprint login, smart waste d
 <p align="center">
   <a href="https://amanshaikh.dev"><img src="https://img.shields.io/badge/amanshaikh.dev-0d0221?style=for-the-badge&logo=firefoxbrowser&logoColor=A78BFA&labelColor=0d0221"></a>
   <a href="mailto:hey@amanshaikh.dev"><img src="https://img.shields.io/badge/hey@amanshaikh.dev-0d0221?style=for-the-badge&logo=gmail&logoColor=87CEEB&labelColor=0d0221"></a>
-  <a href="https://www.linkedin.com/in/aman-shaikh33/"><img src="https://img.shields.io/badge/aman--shaikh33-0d0221?style=for-the-badge&logo=linkedin&logoColor=87CEEB&labelColor=0d0221"></a>
+  <a href="https://www.linkedin.com/in/aman-shaikh33/"><img src="https://img.shields.io/badge/aman--shaikh33-0d0221?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjODdDRUVCIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6TTUzLjc5IDEwOC4xQzI0LjA5IDEwOC4xIDAgODMuNSAwIDUzLjhhNTMuNzkgNTMuNzkgMCAwIDEgMTA3LjU4IDBjMCAyOS43LTI0LjEgNTQuMy01My43OSA1NC4zek00NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjItNDguMjkgMC01NS42OSAzNy43LTU1LjY5IDc2LjdWNDQ4aC05Mi43OFYxNDguOWg4OS4wOHY0MC44aDEuM2MxMi40LTIzLjUgNDIuNjktNDguMyA4Ny44OC00OC4zIDk0IDAgMTExLjI4IDYxLjkgMTExLjI4IDE0Mi4zVjQ0OHoiLz48L3N2Zz4%3D&labelColor=0d0221"></a>
 </p>
 
 <p align="center"><sub><samp>「 thanks for orbiting by ✦ 」</samp></sub></p>
