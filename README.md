@@ -7,7 +7,7 @@
   <hr>
   <br>
   <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=m4xy07&theme=tokyonight&hide_border=true&border_radius=4.5&card_width=1001" alt="GitHub Streaks for m4xy07"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=m4xy07&theme=tokyonight&hide_border=true&border_radius=4.5&card_width=1000" alt="GitHub Streaks for m4xy07"/></a>
     
 ![Hit](https://hit.yhype.me/github/profile?user_id=39182106)
 <!-- For analytics ^ -->
@@ -19,8 +19,8 @@
 <hr>
 <table>
     <tr>
-      <td><a href="[#--------](https://github.com/m4xy07)"><img height="215px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m4xy07&count_private=true&show_icons=true&include_all_commits=true&line_height=22&hide_border=true&theme=tokyonight"/></a></td>
-      <td><a href="[#--------](https://github.com/m4xy07)"><img height="215px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4xy07&layout=compact&line_height=22&hide_border=true&theme=tokyonight"/></a></td>
+      <td><a href="[#--------](https://github.com/m4xy07)"><img height="215px" align="center" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=m4xy07&count_private=true&show_icons=true&include_all_commits=true&line_height=22&hide_border=true&theme=tokyonight"/></a></td>
+      <td><a href="[#--------](https://github.com/m4xy07)"><img height="215px" align="center" alt="Top Language" src="https://github-readme-stats.shion.dev/api/top-langs/?username=m4xy07&layout=compact&line_height=22&hide_border=true&theme=tokyonight"/></a></td>
     </tr>
   </table>
 <hr>
