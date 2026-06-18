@@ -86,7 +86,7 @@ When I'm not coding, I'm probably winning a hackathon (that's happened $`\textco
     </td>
     <td align="center">
       <a href="https://github.com/m4xy07">
-        <img height="135" alt="Streak" src="https://streak-stats.demolab.com?user=m4xy07&hide_border=true&background=0d0221&stroke=a78bfa&ring=87ceeb&fire=8b5cf6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=87ceeb&sideLabels=c4b5fd&dates=6b7280&border_radius=8"/>
+        <img height="135" alt="Streak" src="https://streak-stats.demolab.com?user=m4xy07&hide_border=true&background=0d0221&stroke=a78bfa&ring=87ceeb&fire=8b5cf6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=87ceeb&sideLabels=c4b5fd&dates=6b7280&border_radius=9"/>
       </a>
     </td>
   </tr>
