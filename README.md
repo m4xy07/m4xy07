@@ -10,7 +10,7 @@
 <!-- ANIMATED TYPING SUBTITLE -->
 <p align="center">
   <a href="https://amanshaikh.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=Turning+sensors%2C+models+%26+code+into+real-world+impact;8%C3%97+Hackathon+Winner+%F0%9F%8F%86++%C2%B7++Production+experience+at+scale;Currently+orbiting+CropSense+%F0%9F%8C%BE+and+Aura+%F0%9F%A4%96" alt="typing tagline"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=Turning+sensors%2C+models+%26+code+into+real-world+impact;8%C3%97+Hackathon+Winner+%F0%9F%8F%86++%C2%B7++Production+experience+at+scale;Currently+orbiting+CropSense+%F0%9F%8C%BE+and+Aura+%F0%9F%A4%96" alt="typing tagline "/>
   </a>
 </p>
 
