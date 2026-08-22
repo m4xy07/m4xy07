@@ -1,6 +1,6 @@
 <!-- ════════════════════  AMAN SHAIKH · github.com/m4xy07  ════════════════════ -->
 
-<!-- HERO BANNER (custom animated SVG) -->
+<!-- HERO BANNER (custom animated SVG) --> 
 <p align="center"> 
   <a href="https://amanshaikh.dev">
     <img src="assets/hero-banner.svg" width="100%" alt="Aman Shaikh - Software Engineer · AI · IoT · Full-Stack"/>
